@@ -91,8 +91,6 @@ module.exports = {
   }
 }
 
-
-
 function getEntry() {
   let entriesObj = {}
   utils.resolveEntry().forEach((item, index) => {
